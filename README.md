@@ -6,6 +6,9 @@ For an example on how to read the raw data use the script "Executable.m".
 
 OBS: Make sure to edit the path to your data files and to select the correct experiment type by commenting or uncommenting the type variables.
 
+Please cite in accordance to license:
+
+[![DOI](https://zenodo.org/badge/536271985.svg)](https://zenodo.org/badge/latestdoi/536271985)
 
 
 
